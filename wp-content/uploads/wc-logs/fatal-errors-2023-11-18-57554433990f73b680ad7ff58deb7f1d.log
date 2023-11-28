@@ -1,0 +1,6 @@
+2023-11-18T21:14:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Beauty_Saloon\wp-content\plugins\elementor\includes\widgets\menu-anchor.php on line 4
+
+2023-11-18T21:17:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Beauty_Saloon\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2023-11-18T21:17:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Beauty_Saloon\wp-includes\Requests\src\Transport\Curl.php on line 534
+

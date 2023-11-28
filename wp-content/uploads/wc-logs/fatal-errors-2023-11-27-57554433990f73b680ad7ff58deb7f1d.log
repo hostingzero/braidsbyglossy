@@ -1,0 +1,4 @@
+2023-11-27T22:55:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Beauty_Saloon\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-11-27T22:57:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Beauty_Saloon\wp-includes\Requests\src\Transport\Curl.php on line 534
+
